@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0212-word-search-ii) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
 | [0212-word-search-ii](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0217-contains-duplicate) |
 ## Backtracking
@@ -45,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
