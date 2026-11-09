@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -90,6 +91,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
