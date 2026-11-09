@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0212-word-search-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
 |  |
 | ------- |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
