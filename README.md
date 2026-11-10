@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0217-contains-duplicate) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Hari-priya-Sridharan/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
